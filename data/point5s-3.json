@@ -1,0 +1,16 @@
+{
+  "legend" : "e=0.3,q-learn,hard",
+  "include" : false,
+  "reward": [
+    -1,
+    5,
+    3,
+    3
+  ],
+  "avg": [
+    -1.0,
+    2.0,
+    2.33,
+    2.5
+  ]
+}
